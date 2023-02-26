@@ -152,7 +152,26 @@ def create_mask(coords_valid,keep):
 
   return tf.constant(mask,dtype=tf.float32)
 
+def show_patches(p):
+  fig = plt.figure(figsize=(8, 80))
+  #fig.set_facecolor('black')
+  columns = 8
+  rows = 8
 
+  #plt.imshow(stack_imgs(p))
+
+  for i in range(len(p)):
+      img=p[i]
+      
+      fig.add_subplot(rows, columns, i+1)
+
+      plt.imshow(img)
+      #plt.title(np.where((b[i]==batch_matrix.numpy()).all(axis=1))[0])
+
+      plt.axis('off')
+
+
+  plt.show()
 
 """
 #def tfrecs2ds(tfrecs,img_size,patch_size,limits):
