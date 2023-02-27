@@ -2,6 +2,7 @@ import numpy as np
 import cv2
 import tensorflow as tf
 import os
+import matplotlib.pyplot as plt
 
 def image_feature(value):
     """Returns a bytes_list from a string / byte."""
@@ -153,7 +154,7 @@ def create_mask(coords_valid,keep):
   return tf.constant(mask,dtype=tf.float32)
 
 def show_patches(p):
-  fig = plt.figure(figsize=(8, 80))
+  fig = plt.figure(figsize=(8, 8))
   #fig.set_facecolor('black')
   columns = 8
   rows = 8
