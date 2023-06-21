@@ -1,4 +1,4 @@
-# batch_indexing_machine
+# Batch Indexing Machine
 
 <br>
 
