@@ -1,6 +1,8 @@
 # batch_indexing_machine
 
-<b>Under construction...</b>
+<br>
+
+<b>[Web App](https://huggingface.co/spaces/Circularmachines/batch_indexing_machine)</b>
 
 <br>
 
