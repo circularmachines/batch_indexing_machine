@@ -15,3 +15,4 @@ Bill of material
 
 https://www.electrokit.com/produkt/dc-motor-12v-180ma-11500rpm/
 
+https://www.clasohlson.com/se/Ringlampa-LED-10%22-med-stativ-och-telefonhallare/p/39-1158
