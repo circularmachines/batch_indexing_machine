@@ -1,13 +1,16 @@
 # batch_indexing_machine
 
-Under construction....
+<b>Under construction...</b>
 
-Google colab notebooks:
+
+<b>Google colab notebooks:</b>
 
 [Create Dataset](https://colab.research.google.com/github/circularmachines/batch_indexing_machine/blob/main/Create_dataset.ipynb)
 
 [Train foundation model](https://colab.research.google.com/github/circularmachines/batch_indexing_machine/blob/main/Train_foundation_model.ipynb)
 
+
+<b>Other resources:</b>
 
 [@circularmachines on Youtube](https://www.youtube.com/@circularmachines)
 
