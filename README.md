@@ -2,8 +2,11 @@
 
 Under construction....
 
-Google colab notebook:
-https://colab.research.google.com/drive/1PEU9v2iv4cvLD1a57Pp-_X1PJqAEbzXe?usp=sharing
+Google colab notebooks:
+
+![Create Dataset](https://colab.research.google.com/github/circularmachines/batch_indexing_machine/blob/main/Create_dataset.ipynb)
+https://colab.research.google.com/github/circularmachines/batch_indexing_machine/blob/main/Train_foundation_model.ipynb
+
 
 Youtube:
 https://www.youtube.com/@circularmachines
