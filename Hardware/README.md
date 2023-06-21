@@ -8,3 +8,10 @@ Mechanical design in [Onshape document](https://cad.onshape.com/documents/303a02
 <p>
 
 ![ONSHAPE SCREEN SHOT](cad_capture.PNG)
+
+
+
+Bill of material
+
+https://www.electrokit.com/produkt/dc-motor-12v-180ma-11500rpm/
+
