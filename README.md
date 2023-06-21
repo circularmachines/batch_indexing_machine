@@ -2,7 +2,7 @@
 
 <br>
 
-<b>[Web App](https://huggingface.co/spaces/Circularmachines/batch_indexing_machine)</b>
+<b>[Web App @ huggingface.co](https://huggingface.co/spaces/Circularmachines/batch_indexing_machine)</b>
 
 <br>
 
