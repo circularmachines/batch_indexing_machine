@@ -13,6 +13,10 @@
 [Train foundation model](https://colab.research.google.com/github/circularmachines/batch_indexing_machine/blob/main/Train_foundation_model.ipynb)
 
 
+<b>Datasets</b>
+
+https://huggingface.co/datasets/Circularmachines/batch_indexing_machine_230614
+
 <b>Other resources:</b>
 
 [@circularmachines on Youtube](https://www.youtube.com/@circularmachines)
