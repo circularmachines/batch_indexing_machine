@@ -1,6 +1,6 @@
 # Batch Indexing Machine
 
-This initiative is dedicated to developing novel approaches for recognizing and categorizing physical parts. The ultimate objective is to release an open-source solution, hardware and software, capable of converting waste materials into a functional inventory. The project's core ambition is to establish a circular marketplace, reimagining how we manage resources and promote sustainability.
+This project is about open sourcing datasets of random parts and waste, to promote innovation in recognizing and organizing physical parts. The ultimate objective is to release an open-source solution, hardware and software, capable of converting waste materials into a functional inventory. The backbone of a future circular marketplace?
 
 <br>
 
